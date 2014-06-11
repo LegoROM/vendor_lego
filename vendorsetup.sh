@@ -11,3 +11,4 @@ add_lunch_combo lego_i9300-userdebug
 add_lunch_combo lego_ls980-userdebug
 add_lunch_combo lego_mako-userdebug
 add_lunch_combo lego_skyrocket-userdebug
+add_lunch_combo lego_kumquat-userdebug
